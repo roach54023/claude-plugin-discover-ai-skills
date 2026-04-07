@@ -1,0 +1,11 @@
+{
+  "name": "discover-ai-skills",
+  "version": "1.0.0",
+  "description": "Search and discover 36,000+ AI agent skills, MCP servers, and Claude tools from discoveraiskills.com — the largest community catalog for Claude, Cursor, and OpenClaw.",
+  "author": "discoveraiskills",
+  "homepage": "https://discoveraiskills.com",
+  "repository": "https://github.com/roach54023/agent-skills",
+  "license": "MIT",
+  "keywords": ["claude", "skills", "mcp", "ai-tools", "discovery", "catalog"],
+  "skills": "skills/"
+}
